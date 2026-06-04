@@ -125,7 +125,8 @@ GIFT-format MCQ banks generated across 10+ courses — 60 questions per course w
 
 ## Screenshots
 
-> _Available on request — contact details below._
+![Dashboard](screenshots/dashboard.png)
+   ![Results Portal](screenshots/results.png)
 
 ---
 
